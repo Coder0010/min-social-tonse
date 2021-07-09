@@ -1,0 +1,22 @@
+<?php
+return [
+    'method_not_allowed'             => 'method not allowed',
+    'route_not_found'                => 'route not found',
+    'failed_validation'              => 'validation failed',
+    'modal_not_found'                => 'modal not found',
+    'unauthenticated'                => 'unauthenticated',
+    'unauthorized'                   => 'unauthorized',
+    'invalid_argument'               => 'invalid argument',
+    'http_exception'                 => 'http exception',
+    'maintenance_mode'               => 'maintenance mode',
+    'recored_created_successfully'   => 'record created successfully',
+    'recored_updated_successfully'   => 'record updated successfully',
+    'try_catch_error'                => 'logical error try & catch',
+    'user_logged_in'                 => 'user [ :name ] logged in',
+    'user_logged_out'                => 'User [ :name ] logged out',
+    'invalid_credentials'            => 'invalid credentials',
+    'user_profile'                   => 'user profile [ :name ]',
+    '' => '',
+    '' => '',
+    '' => '',
+];

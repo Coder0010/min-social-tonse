@@ -1,0 +1,22 @@
+============[ Khazan v1.0.0.2 ]============
+    * finish update user api.
+    * finish user profile api.
+    * fix namespace of [ media & adminpanel ] to libraries.
+    * fix translations.
+    * create resoruce for user.
+    *
+
+============[ Khazan v1.0.0.1 ]============
+    * add serversetup command for grouping all needed commands.
+    * add helpers folder and added to service container.
+    * create super class for all modals.
+    * check if logged user is not Authenticated for json response.
+    * add laravel auth module.
+    * add media servie for media & files.
+    * add seeders [ setting, user, role & permission ].
+    * finsih erd
+    * finish migration & models
+    * finish login, register
+
+============[ Khazan v1.0.0.0 ]============
+    init project
